@@ -1,0 +1,18 @@
+Column Name,Data Type,Number of Missing Values,Number of Unique Values
+CrimeDate,object,0,2300
+CrimeTime,object,26,1475
+CrimeCode,object,0,81
+Location,object,1336,27064
+Description,object,0,14
+Inside/Outside,object,33760,4
+Weapon,object,231229,5
+Post,object,2376,259
+District,object,0,10
+Neighborhood,object,10504,278
+Longitude,float64,1635,97440
+Latitude,float64,1635,95903
+Location 1,float64,292761,0
+Premise,object,34012,125
+vri_name1,object,258177,8
+Total Incidents,int64,0,1
+Number of Records,,,292761
